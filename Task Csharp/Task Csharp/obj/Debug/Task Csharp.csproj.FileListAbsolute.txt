@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\bin\Debug\Task Csharp.exe.config
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\bin\Debug\Task Csharp.exe
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\bin\Debug\Task Csharp.pdb
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task Csharp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task_Csharp.Form1.resources
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task_Csharp.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task Csharp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task Csharp.exe
+C:\Users\ADMIN\Desktop\Task Csharp\Task Csharp\obj\Debug\Task Csharp.pdb
